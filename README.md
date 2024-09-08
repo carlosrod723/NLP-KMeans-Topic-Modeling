@@ -1,4 +1,4 @@
-# Topic Modeling with NLP & K-Means: Vodafone Customer Feedback Analysis
+# NLP Topic Modeling with K-Means: Vodafone Customer Feedback Analysis
 
 ## Overview
 This analysis investigates customer feedback and complaints from Vodafone users through Twitter data. By applying Natural Language Processing (NLP) techniques and KMeans clustering, the goal is to uncover patterns, common themes, and areas of concern within customer complaints. Visual representations, such as word clouds, are generated to highlight frequently mentioned terms across clusters.
